@@ -1,0 +1,22 @@
+Human TDP43 - Q13148: MobiDB, 414 AA
+	1. 76-99
+	2. 261-414
+
+Mouse TDP43 - Q921F2: MobiDB, 414 AA
+	1. 75-99
+	2. 260-414
+
+African clawed frog TDP43 - Q8JJ42: Alphafold-RSA predicted, 412 AA
+	1. 77-101
+	2. 261-412
+
+Chimpanzee TDP43 - H2PY00: Alphafold-RSA predicted, 414 AA
+	1. 77-100
+	2. 261-414
+
+Cow TDP43 - G3MX91: AlphaFold-RSA predicted, 414 AA
+	1. 78-101
+	2. 262-414
+
+
+

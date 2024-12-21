@@ -1,0 +1,27 @@
+Human fus - P35637: MobiDB, 526 AA
+	1. 1-278
+	2. 368-426
+	3. 451-526
+
+Mouse fus - P56959: MobiDB, 518 AA
+	1. 1-271
+	2. 361-419
+	3. 444-518
+
+African clawed frog fus - Q7ZXQ2: Alphafold-RSA predicted,  536 AA
+	1. 1-291
+	2. 383-439
+	3. 463-536
+
+Chimpanzee fus - H2RA80: Alphafold-RSA predicted, 526 AA
+	1. 1-278
+	2. 370-426
+	3. 450-526
+
+Cow fus - Q28009: MobiDB, 513 AA
+	1. 1-265
+	2. 355-414
+	3. 438-513
+
+
+

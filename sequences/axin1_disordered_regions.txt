@@ -1,0 +1,26 @@
+Human Axin1 - O15169: MobiDB, 862 AA
+	1. 1-78
+	2. 216-393
+	3. 402-782
+
+Mouse Axin1 - O35625: MobiDB, 863 AA
+	1. 1-79
+	2. 217-394
+	3. 402-783
+
+African clawed frog Axin1 - Q9YGY0: MobiDB, 842 AA
+	1. 1-79
+	2. 218-394
+	3. 401-762
+
+Chimpanzee Axin1 - H2R1H5: Alphafold-RSA predicted, 859 AA
+	1. 1-79
+	2. 214-392
+	3. 402-777
+
+Cow Axin1 - M5FK80: AlphaFold-RSA predicted, 866 AA
+	1. 1-79
+	2. 213-392
+	3. 404-784
+
+
